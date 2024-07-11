@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./Components/Navbar/Navbar";
 import Banner from "./Components/Banner/Banner";
 import Features from "./Components/Features/Features";
-import LeftBanner from "./Components/Banner/LeftBanner";
+
 
 function App() {
   return (

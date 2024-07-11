@@ -4,13 +4,13 @@ import RightBanner from "./RightBanner";
 
 const Banner = () => {
   return (
-    <select
+    <section
       id="home"
       className="w-full py-10 flex items-center border-b-[1px] font-titleFont border-black"
     >
       <LeftBanner />
       <RightBanner />
-    </select>
+    </section>
   );
 };
 
